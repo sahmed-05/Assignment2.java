@@ -45,31 +45,22 @@ A sample screenshot output has been provided for more details:
    Address: 123 Main Street MyTown CA 01234
    EmergencyContact: Bill Santori 777-555-1212
 
-
-
           Procedure: Physical Exam 
           ProcedureDate=7/20/2019 
           Practitioner=Dr. Irvine 
           Charge=3250.0
-
-
 
           Procedure: X-ray 
           ProcedureDate=7/20/2019 
           Practitioner=Dr. Jamison 
           Charge=5500.43
 
-
-
           Procedure: Blood Test 
           ProcedureDate=7/20/2019 
           Practitioner=Dr. Smith 
           Charge=1400.75
 
-
-
 Total Charges: $10,151.18
-
 
 Student Name: Julie Taylor
 MC#: MC777777
