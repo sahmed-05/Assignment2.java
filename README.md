@@ -40,6 +40,7 @@ The class should have the following methods:
 •	displayProcedure: This method given a procedure object will display procedure’s information.
 •	calculateTotalCharges: this method takes three procedures as parameter and returns the total charges of these procedures.
 A sample screenshot output has been provided for more details:
+
 "Patient info:
    Name: Jenny Elaine Santori
    Address: 123 Main Street MyTown CA 01234
